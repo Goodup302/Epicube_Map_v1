@@ -1,0 +1,7 @@
+#
+#Sat Mar 14 14:00:18 CET 2015
+GameType=creative
+LinkedWorlds=
+Time=keep
+ServerName=Epicube
+Weather=sunny

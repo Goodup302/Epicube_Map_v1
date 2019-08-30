@@ -1,0 +1,8 @@
+#
+#Fri Mar 13 20:42:30 CET 2015
+LinkedWorlds=
+GameType=creative
+AutoStart=false
+Time=12500
+ServerName=Epicube
+Weather=sunny

@@ -1,0 +1,4 @@
+#
+#Fri Mar 13 20:47:59 CET 2015
+LinkedWorlds=
+ServerName=Epicube

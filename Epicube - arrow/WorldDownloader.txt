@@ -1,0 +1,8 @@
+#
+#Sun Jun 21 15:37:38 CEST 2015
+Spawn=player
+LinkedWorlds=
+GameType=survival
+Time=12500
+ServerName=Epicube
+Weather=sunny
